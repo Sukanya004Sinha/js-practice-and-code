@@ -1,0 +1,4 @@
+in javacript curly braces like that  
+{
+}
+is known as scope
